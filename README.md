@@ -1,8 +1,12 @@
 # Podcastr Application
 
-![image](https://github.com/user-attachments/assets/8f7264e0-cee9-4318-a203-390baf1ecffc)
+## 📸 Screenshots
+![Screenshot 1](https://github.com/kkush7624/podcastr/blob/main/media/screenshot1.png)
+![Screenshot 2](https://github.com/kkush7624/podcastr/blob/main/media/screenshot2.png)
+![Screenshot 3](https://github.com/kkush7624/podcastr/blob/main/media/screenshot3.png)
 
-![image](https://github.com/user-attachments/assets/cfedc6a4-58af-4b90-b990-3e3a869b1b2b)
+## 🎥 Demo Video
+[Watch Demo](https://github.com/kkush7624/podcastr/blob/main/media/Podcastr_Demo.mp4)
 
 [Podcastr Live Website (https://podcastr-green.vercel.app)](https://podcastr-green.vercel.app/)
 
